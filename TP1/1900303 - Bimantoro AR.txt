@@ -1,0 +1,21 @@
+link soal TP : https://docs.google.com/document/d/1qgCxlu0j8hvyAGIGaga8te6-8EFq5ArDz7htObRoJOw/edit
+
+link github : https://github.com/bimantoroar/TP1PBO2021
+
+Saya Bimantoro Aulia Rizky mengerjakan TP1 dalam 
+mata kuliah DPBO untuk keberkahan Nya maka 
+saya tidak melakukan kecurangan seperti yang telah 
+di-spesifikasika. Aamiin. 
+
+Kesulitan:
+Masih belum mengetahui aplikasi visual studio
+Masih belum mengerti bahasa C#
+
+Hal yang dipelajari:
+Membuat desain
+Lebih mengetahui toolbox,dll
+
+Fitur:
+Search
+Login/Logout
+Reset
